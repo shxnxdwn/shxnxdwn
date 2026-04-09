@@ -17,7 +17,7 @@
     <td align="center" width="126"><img src="icons/nextjs.svg" width="50" height="50" /><br /><sub>Next.js</sub></td>
     <td align="center" width="126"><img src="icons/react.svg" width="50" height="50" /><br /><sub>React</sub></td>
     <td align="center" width="126"><img src="icons/reactnative.svg" width="50" height="50" /><br /><sub>React Native</sub></td>
-    <td align="center" width="126"><img src="icons/redux.svg" width="50" height="50" /><br /><sub>Redux/RTK</sub></td>
+    <td align="center" width="126"><img src="icons/redux.svg" width="50" height="50" /><br /><sub>Redux / RTK</sub></td>
     <td align="center" width="126"><img src="icons/zustand.svg" width="50" height="50" /><br /><sub>Zustand</sub></td>
     <td align="center" width="126"><img src="icons/tanstack.png" width="50" height="50" /><br /><sub>Tanstack</sub></td>
   </tr>
