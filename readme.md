@@ -12,13 +12,13 @@
 
 <table>
   <tr>
-    <td align="center" width="126"><img src="icons/javascript.svg" width="50" height="50" /><br />JavaScript</td>
-    <td align="center" width="126"><img src="icons/typescript.svg" width="50" height="50" /><br />TypeScript</td>
-    <td align="center" width="126"><img src="icons/nextjs.svg" width="50" height="50" /><br />Next.js</td>
-    <td align="center" width="126"><img src="icons/react.svg" width="50" height="50" /><br />React</td>
-    <td align="center" width="126"><img src="icons/reactnative.svg" width="50" height="50" /><br />React Native</td>
-    <td align="center" width="126"><img src="icons/redux.svg" width="50" height="50" /><br />Redux/RTK</td>
-    <td align="center" width="126"><img src="icons/zustand.svg" width="50" height="50" /><br />Zustand</td>
-    <td align="center" width="126"><img src="icons/tanstack.png" width="50" height="50" /><br />Tanstack</td>
+    <td align="center" width="126"><img src="icons/javascript.svg" width="50" height="50" /><br /><sub>JavaScript</sub></td>
+    <td align="center" width="126"><img src="icons/typescript.svg" width="50" height="50" /><br /><sub>TypeScript</sub></td>
+    <td align="center" width="126"><img src="icons/nextjs.svg" width="50" height="50" /><br /><sub>Next.js</sub></td>
+    <td align="center" width="126"><img src="icons/react.svg" width="50" height="50" /><br /><sub>React</sub></td>
+    <td align="center" width="126"><img src="icons/reactnative.svg" width="50" height="50" /><br /><sub>React Native</sub></td>
+    <td align="center" width="126"><img src="icons/redux.svg" width="50" height="50" /><br /><sub>Redux/RTK</sub></td>
+    <td align="center" width="126"><img src="icons/zustand.svg" width="50" height="50" /><br /><sub>Zustand</sub></td>
+    <td align="center" width="126"><img src="icons/tanstack.png" width="50" height="50" /><br /><sub>Tanstack</sub></td>
   </tr>
 </table>
