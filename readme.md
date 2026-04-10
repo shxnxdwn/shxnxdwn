@@ -22,16 +22,6 @@
     <td align="center" width="126"><img src="icons/tanstack.png" alt="icon" width="50" height="50" /><br /><sub>TanStack</sub></td>
   </tr>
   <tr>
-    <td align="center" width="126"><img src="icons/nodejs.svg" alt="icon" width="50" height="50" /><br /><sub>Node.js</sub></td>
-    <td align="center" width="126"><img src="icons/express.svg" alt="icon" width="50" height="50" /><br /><sub>Express</sub></td>
-    <td align="center" width="126"><img src="icons/fastify.svg" alt="icon" width="50" height="50" /><br /><sub>Fastify</sub></td>
-    <td align="center" width="126"><img src="icons/postgresql.svg" alt="icon" width="50" height="50" /><br /><sub>PostgreSQL</sub></td>
-    <td align="center" width="126"><img src="icons/mongodb.svg" alt="icon" width="50" height="50" /><br /><sub>Mongo DB</sub></td>
-    <td align="center" width="126"><img src="icons/prisma.svg" alt="icon" width="50" height="50" /><br /><sub>Prisma</sub></td>
-    <td align="center" width="126"><img src="icons/redis.svg" alt="icon" width="50" height="50" /><br /><sub>Redis</sub></td>
-    <td align="center" width="126"><img src="icons/swagger.svg" alt="icon" width="50" height="50" /><br /><sub>Swagger</sub></td>
-  </tr>
-  <tr>
     <td align="center" width="126"><img src="icons/html.svg" alt="icon" width="50" height="50" /><br /><sub>HTML</sub></td>
     <td align="center" width="126"><img src="icons/css.svg" alt="icon" width="50" height="50" /><br /><sub>CSS</sub></td>
     <td align="center" width="126"><img src="icons/sass.svg" alt="icon" width="50" height="50" /><br /><sub>SASS(SCSS)</sub></td>
@@ -40,5 +30,15 @@
     <td align="center" width="126"><img src="icons/webpack.svg" alt="icon" width="50" height="50" /><br /><sub>Webpack</sub></td>
     <td align="center" width="126"><img src="icons/vite.svg" alt="icon" width="50" height="50" /><br /><sub>Vite</sub></td>
     <td align="center" width="126"><img src="icons/turborepo.svg" alt="icon" width="50" height="50" /><br /><sub>Turborepo</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="126"><img src="icons/nodejs.svg" alt="icon" width="50" height="50" /><br /><sub>Node.js</sub></td>
+    <td align="center" width="126"><img src="icons/express.svg" alt="icon" width="50" height="50" /><br /><sub>Express</sub></td>
+    <td align="center" width="126"><img src="icons/fastify.svg" alt="icon" width="50" height="50" /><br /><sub>Fastify</sub></td>
+    <td align="center" width="126"><img src="icons/postgresql.svg" alt="icon" width="50" height="50" /><br /><sub>PostgreSQL</sub></td>
+    <td align="center" width="126"><img src="icons/mongodb.svg" alt="icon" width="50" height="50" /><br /><sub>Mongo DB</sub></td>
+    <td align="center" width="126"><img src="icons/prisma.svg" alt="icon" width="50" height="50" /><br /><sub>Prisma</sub></td>
+    <td align="center" width="126"><img src="icons/redis.svg" alt="icon" width="50" height="50" /><br /><sub>Redis</sub></td>
+    <td align="center" width="126"><img src="icons/swagger.svg" alt="icon" width="50" height="50" /><br /><sub>Swagger</sub></td>
   </tr>
 </table>
