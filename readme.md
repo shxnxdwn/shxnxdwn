@@ -31,4 +31,10 @@
     <td align="center" width="126"><img src="icons/redis.svg" alt="icon" width="50" height="50" /><br /><sub>Redis</sub></td>
     <td align="center" width="126"><img src="icons/swagger.svg" alt="icon" width="50" height="50" /><br /><sub>Swagger</sub></td>
   </tr>
+  <tr>
+    <td align="center" width="126"><img src="icons/storybook.svg" alt="icon" width="50" height="50" /><br /><sub>Storybook</sub></td>
+    <td align="center" width="126"><img src="icons/webpack.svg" alt="icon" width="50" height="50" /><br /><sub>Webpack</sub></td>
+    <td align="center" width="126"><img src="icons/vite.svg" alt="icon" width="50" height="50" /><br /><sub>Vite</sub></td>
+    <td align="center" width="126"><img src="icons/turborepo.svg" alt="icon" width="50" height="50" /><br /><sub>Turborepo</sub></td>
+  </tr>
 </table>
