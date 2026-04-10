@@ -32,6 +32,10 @@
     <td align="center" width="126"><img src="icons/swagger.svg" alt="icon" width="50" height="50" /><br /><sub>Swagger</sub></td>
   </tr>
   <tr>
+    <td align="center" width="126"><img src="icons/html.svg" alt="icon" width="50" height="50" /><br /><sub>HTML</sub></td>
+    <td align="center" width="126"><img src="icons/css.svg" alt="icon" width="50" height="50" /><br /><sub>CSS</sub></td>
+    <td align="center" width="126"><img src="icons/sass.svg" alt="icon" width="50" height="50" /><br /><sub>SASS(SCSS)</sub></td>
+    <td align="center" width="126"><img src="icons/tailwind.svg" alt="icon" width="50" height="50" /><br /><sub>Tailwind</sub></td>
     <td align="center" width="126"><img src="icons/storybook.svg" alt="icon" width="50" height="50" /><br /><sub>Storybook</sub></td>
     <td align="center" width="126"><img src="icons/webpack.svg" alt="icon" width="50" height="50" /><br /><sub>Webpack</sub></td>
     <td align="center" width="126"><img src="icons/vite.svg" alt="icon" width="50" height="50" /><br /><sub>Vite</sub></td>
