@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=609DE0&width=435&lines=I+specialize+in+Frontend+development;I'm+experienced+in+Mobile+development;I'm+diving+into+Backend+development" alt="Typing SVG" />
 
-4+ years of experience in building scalable web (React/Next) and mobile (React Native) applications. Currently focused on high-performance backend architecture with Node.js (Express/Fastify). Helping businesses grow by building high-quality software.
+Fullstack developer with 4 years of commercial experience, core is React, Next.js, Node.js (Express/Fastify). Helping businesses grow by building high-quality software.
 
 <br />
 
